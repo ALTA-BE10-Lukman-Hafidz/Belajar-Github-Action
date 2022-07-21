@@ -33,7 +33,7 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: lukmanhafidz/be10play:latest
+          tags: hafidzlukman/be10play:latest
           
       - name: executing remote ssh commands using password
         uses: appleboy/ssh-action@master
