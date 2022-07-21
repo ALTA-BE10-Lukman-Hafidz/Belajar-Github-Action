@@ -2,6 +2,8 @@
 
 ## belajar deploy
 
+Tugas CI/CD
+
 ## Setup Action
 
 1. Masuk ke menu `Action`
